@@ -12,3 +12,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+This is for git repository for deployment
+
+## Example
+
+This will be used for many examples
+
