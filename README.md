@@ -21,3 +21,7 @@ This will be used for many examples to learn GIT
 ## Copyright
 
 2021 Git Training
+
+## How to Contribute
+
+Please fork this repository and then use
