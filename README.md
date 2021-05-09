@@ -18,3 +18,6 @@ This is for git repository for deployment so that we can learn deploying
 
 This will be used for many examples to learn GIT
 
+## Copyright
+
+2021 Git Training
